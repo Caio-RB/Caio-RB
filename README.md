@@ -1,7 +1,7 @@
 ## Saudações, eu me chamo Caio Almeida
 
 ### Minha Stack
-<div align="center">
+<div>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
