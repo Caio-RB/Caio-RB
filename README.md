@@ -1,10 +1,9 @@
 # Olá! Eu sou o **Caio Almeida**
 
-Desenvolvedor focado em **Frontend** e apaixonado por criar experiências digitais que conectam pessoas à cultura independente.  
-Atualmente com **20 anos**, construo projetos que unem tecnologia, criatividade e acessibilidade.
+Desenvolvedor focado em **Frontend**, apaixonado pela integração cultural trazida pela tecnologia e pela globalização 🌎.  
+Atualmente com **20 anos**, construo projetos que têm como finalidade promover acessibilidade e facilitar tarefas cotidianas de pessoas e empresas.
 
 ---
-
 ## Stack
 <div align="center" style="margin: 40px 0;">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" title="Vue.js" />
@@ -16,7 +15,6 @@ Atualmente com **20 anos**, construo projetos que unem tecnologia, criatividade 
 </div>
 
 ---
-
 ## Sobre mim
 - Estudante e desenvolvedor Frontend  
 - Criador da plataforma **Kruks**, dedicada à valorização da cultura indie  
@@ -24,30 +22,27 @@ Atualmente com **20 anos**, construo projetos que unem tecnologia, criatividade 
 - Futuro **Engenheiro da Computação**
 
 ---
-
 ## Projeto principal – Kruks
 **Kruks** é um hub multimídia gratuito para indexação de obras independentes.  
-A ideia é **centralizar, catalogar e democratizar o acesso** a animações, mangás, jogos indie e criações autorais — com uma experiência fluida, parecida com serviços de streaming.
+A ideia é **centralizar, catalogar e democratizar o acesso** a animações, mangás, jogos e criações autorais independentes, com uma experiência parecida com a de serviços de streaming.
 
 **Destaques atuais e planejados:**
 - Player de vídeo integrado  
 - Catálogo organizado por obras e episódios  
 - Centralização de links oficiais e comunidades  
 - Guias completos para artistas independentes  
-- Foco total em criadores da América Latina e do mundo
+- Foco total na cultura globalizada  
 
-🔗 [github.com/seu-usuario/kruks](https://github.com/seu-usuario/kruks) – onde tudo está acontecendo agora
+🔗 https://github.com/Caio-RB/KruksHub – repositório oficial do projeto
 
 ---
-
 ## Outros projetos
-- Sistema de gerenciamento escolar (Java + Spring Boot)  
-- Sistema de gerenciamento hospitalar (Java + JavaFX)  
-- Cardápio digital estilo iFood  
-- Sistema PDV + menu para manicure
+- Sistema de gerenciamento escolar  
+- Sistema de gerenciamento hospitalar  
+- Cardápio digital para lojas do iFood  
+- Sistema PDV
 
 ---
-
 ## Contato
 <div align="center" style="margin: 40px 0;">
   <a href="https://x.com/KRUKS_HUB">
